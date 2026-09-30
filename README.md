@@ -35,6 +35,7 @@ Advanced topics such as CUDA, distributed training, and custom kernels are inten
 ## Start here
 
 - [90-day plan](00-roadmap/90-day-plan.md)
+- [Practical English courses](00-roadmap/courses.md)
 - [Reading list](00-roadmap/reading-list.md)
 - [Progress tracker](progress.md)
 - [Project index](projects/README.md)
