@@ -36,6 +36,7 @@ Advanced topics such as CUDA, distributed training, and custom kernels are inten
 
 - [90-day plan](00-roadmap/90-day-plan.md)
 - [Practical English courses](00-roadmap/courses.md)
+- [中文课程与搜索关键词](00-roadmap/courses-zh.md)
 - [Reading list](00-roadmap/reading-list.md)
 - [Progress tracker](progress.md)
 - [Project index](projects/README.md)
